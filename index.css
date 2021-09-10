@@ -5,7 +5,20 @@ h1
 }
 
 body {
-    background-color: orange;
-
+    background-image: url('images/mainBackground.jpg');
+    background-color: rgb(230, 208, 168);
+    background-position: top;
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
+table.direct{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50%;
+    margin-bottom: 50%;
+
+}
