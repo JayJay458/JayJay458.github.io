@@ -1,7 +1,9 @@
+
 h1
 {
     text-align: center;
-    font-size: larger;
+    font-size:x-large ;
+    color:antiquewhite;
 }
 
 body {
@@ -14,6 +16,7 @@ body {
     background-size: cover;
     background-repeat: no-repeat;
 }
+
 
 table.direct{
     margin-left:auto;
