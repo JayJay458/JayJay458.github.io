@@ -7,7 +7,7 @@ h1
 }
 
 body {
-    background-image: url('images/mainBackground.jpg');
+    background-image: url('../images/mainBackground.jpg');
     background-color: rgb(230, 208, 168);
     background-position: top;
     width: 100%;
