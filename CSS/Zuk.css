@@ -1,12 +1,16 @@
 h1{
     text-align: center;
-    font-family:'Courier New', Courier, monospace;
+    font-family: 'Brush Script MT', cursive;
     font-size: xx-large;
+    color: white;
+    mix-blend-mode: difference;
 }
 
 h2{
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
-    font-size: medium;
+    font-size: larger;
+    color:beige;
+    mix-blend-mode: difference;
 }
 
